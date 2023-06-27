@@ -1,8 +1,10 @@
 # finalCapstone
 **Project name:Financial Calculator**
+
 **Description**:
 This Python project provides two financial calculators: an investment calculator and a home loan repayment calculator. 
 It allows users to input their financial details and obtain calculated results.
+
 **Features**:
 Choose between the investment calculator or the home loan repayment calculator.
 Case-insensitive input for menu selection.
@@ -10,6 +12,7 @@ Input deposit amount, interest rate (as a percentage), and investment period for
 Select either simple or compound interest for investment calculations.
 Calculate and display the expected return on investment based on user inputs.
 Calculate the amount to be paid on a home loan for the home loan repayment calculator.
+
 **Installation**
 Clone the repository to your local machine using the following command:git clone https://github.com/your-username/finance-calculators.git
 Navigate to the project directory:cd finance-calculators
